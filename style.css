@@ -1,0 +1,30 @@
+body {
+  background-color: #9BC4CB;
+	color: black;
+}
+
+button {
+	font-size: 30px;
+}
+
+table {
+  border: thick solid #E2FADB;
+	width: 100%;
+}
+
+td {
+  border: thin solid #E2FADB;
+	padding: 3px;
+	width: 15%;
+}
+
+th {
+  border: medium solid #E2FADB;
+	padding: 5px;
+}
+
+div {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+	font-size: 24pt;
+}
