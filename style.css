@@ -1,31 +1,49 @@
 body {
-	background-color: #9BC4CB;
-	color: black;
+  background-color: #73628A;
+	color: #CBC5EA;
+  font-family: "American Typewriter", serif;
 }
 
 button {
 	font-size: 30px;
+  background-color: #EAEAEA;
+  color: #73628A;
+  font-family: "American Typewriter", serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: normal;
+}
+
+form {
+  font-size: 20px;
+}
+
+input {
+  background-color: #EAEAEA;
 }
 
 table {
-	border: thick solid #E2FADB;
+  border: thick solid #EAEAEA;
 	width: 100%;
-	text-align: center;
 }
 
 td {
-	border: thin solid #E2FADB;
+  border: thin solid #EAEAEA;
 	padding: 3px;
 	width: 15%;
 }
 
 th {
-	border: medium solid #E2FADB;
+  border: medium solid #EAEAEA;
 	padding: 5px;
+  font-size: 20pt;
+  font-weight: normal;
 }
 
 div {
-	writing-mode: vertical-rl;
-	text-orientation: upright;
-	font-size: 30px;
+  writing-mode: vertical-rl;
+  text-orientation: upright;
 }
